@@ -1,6 +1,7 @@
 let texto = true
 
 console.log(texto)
+console.log(texto)
 
 console.log('Elementos VERDADEIROS')
 console.log(!!'string') //string
